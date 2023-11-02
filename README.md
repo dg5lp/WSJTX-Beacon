@@ -9,9 +9,11 @@ Main features:
 - All other message-types are ignored.  If nothing or invallid message received, continues with the macro.
 - Does not creates ADIF-log, all messages are in ALL.txt.
 - The Beacon stores all entries in the log-window in a new daily file, located in the ./log directory of installation
+
 How to install and start the Beacon:
 - Copy the exe into a directory, start it.  Enter your callsign and the used band. The band is only for information in log.
 - Press the "Start" checkbox.
+
 Important settings in WSJT-X.
 - Basically the same settings should be used as for the FT8-Helper.
 - Select the correct 60s moe and sub-mode.
